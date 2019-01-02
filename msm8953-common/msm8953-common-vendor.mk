@@ -567,5 +567,7 @@ PRODUCT_PACKAGES += \
     com.qualcomm.location \
     qcrilmsgtunnel \
     ims \
+    QtiTelephonyServicelibrary \
+    qti-telephony-common \
     imssettings \
     TimeService
